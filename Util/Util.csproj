@@ -45,7 +45,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\..\..\..\desktop\APP\desk-1400-apps\apps\WindowsFormsApplication7\RSRC\RSRC.csproj">
+    <ProjectReference Include="..\RSRC\RSRC.csproj">
       <Project>{66fa457a-d445-472a-a77d-c9bf9b021911}</Project>
       <Name>RSRC</Name>
     </ProjectReference>

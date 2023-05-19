@@ -80,10 +80,6 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\RSRC\RSRC.csproj">
-      <Project>{66fa457a-d445-472a-a77d-c9bf9b021911}</Project>
-      <Name>RSRC</Name>
-    </ProjectReference>
     <ProjectReference Include="..\Util\Util.csproj">
       <Project>{e377387b-d8c5-45f5-9fdb-755d4fd2e7be}</Project>
       <Name>Util</Name>
